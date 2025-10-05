@@ -25,8 +25,49 @@ Features **Dark/Light mode**, **score tracking**, and **move history navigation*
 
 ### Installation
 
-1. Clone the repository (replace with your real repo URL):
+1. Clone the repository
+```bash https://github.com/Yash-577/Tic-Tac-Toe
 
-```bash
-git clone https://github.com/your-username/your-repo.git
+2.. Navigate into the project folder:
+cd tic-tac-toe
+
+3. Install dependencies:
+npm install
+
+4. Start the development server:
+npm start
+
+The app will open in your browser at http://localhost:3000
+.
+
+Changes you make will reload the page automatically.
+
+
+Usage
+
+Click on an empty square to place X or O.
+
+Toggle Dark/Light mode using the button.
+
+Check the score for X and O players.
+
+Use Next Match to start a new round while keeping scores.
+
+Use Reset All to reset the game and scores.
+
+Navigate through previous moves using the History buttons.
+
+Technologies Used
+
+React
+
+JavaScript (ES6)
+
+CSS (with Dark/Light mode styling)
+
+License
+
+This project is open-source and free to use.
+
+This project was bootstrapped with Create React App
 
