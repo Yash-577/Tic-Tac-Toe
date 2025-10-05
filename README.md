@@ -54,25 +54,19 @@ Changes you make will reload the page automatically.
 
 ## Usage
 
-Click on an empty square to place X or O.
-
-Toggle Dark/Light mode using the button.
-
-Check the score for X and O players.
-
-Use Next Match to start a new round while keeping scores.
-
-Use Reset All to reset the game and scores.
-
-Navigate through previous moves using the History buttons.
+- Click on an empty square to place X or O.  
+- Toggle **Dark/Light mode** using the button.  
+- Check the **score** for X and O players.  
+- Use **Next Match** to start a new round while keeping scores.  
+- Use **Reset All** to reset the game and scores.  
+- Navigate through previous moves using the **History** buttons.
 
 ## Technologies Used
 
-React
+- React  
+- JavaScript (ES6)  
+- CSS (with Dark/Light mode styling)
 
-JavaScript (ES6)
-
-CSS (with Dark/Light mode styling)
 
 ## License
 
